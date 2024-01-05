@@ -56,7 +56,6 @@ async function createPlaylist(tracksUri){
 }
 
 
-
 async function main() {
     const topTracks = await getTopTracks();
 
